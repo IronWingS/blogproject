@@ -1,4 +1,4 @@
-certifi==2019.3.9
+certifi==2022.12.7
 configparser==3.7.4
 Django==1.10.6
 image==1.5.27
